@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactProject/static/css/main.3da6a5ca.css",
+    "main.js": "/ReactProject/static/js/main.56bb2b89.js",
+    "static/media/Collaboration-amico.svg": "/ReactProject/static/media/Collaboration-amico.0b272d156339e0260773aa71fad2e5b4.svg",
+    "static/media/Flying around the world-pana.svg": "/ReactProject/static/media/Flying around the world-pana.ef7c05ed0297d2af4ebc2acf0f855e64.svg",
+    "index.html": "/ReactProject/index.html",
+    "main.3da6a5ca.css.map": "/ReactProject/static/css/main.3da6a5ca.css.map",
+    "main.56bb2b89.js.map": "/ReactProject/static/js/main.56bb2b89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3da6a5ca.css",
+    "static/js/main.56bb2b89.js"
+  ]
+}
